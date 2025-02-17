@@ -16,8 +16,6 @@ Implemented HMMs for isolated word recognition, including forward-backward, Vite
 
 ### Results
 
-![picture4](./images/4.png)
-![picture5](./images/5.png)
 ![picture6](./images/6.png)
 ![picture7](./images/7.png)
 ![picture8](./images/8.png)
@@ -25,6 +23,11 @@ Implemented HMMs for isolated word recognition, including forward-backward, Vite
 ## lab 3
 
 Developed phoneme recognition using HMMs and DNNs, trained models on TIDIGITS data, and evaluated frame-by-frame recognition using PyTorch.
+
+### Results
+
+![picture9](./images/9.png)
+![picture10](./images/10.png)
 
 ## lab 4
 
